@@ -100,13 +100,15 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:background="@drawable/custombutton3"
             android:gravity="center"
             android:padding="0px"
             android:text="C"
-            android:background="@drawable/custombutton3"
+            android:textColorLink="@color/orange5"
             android:textSize="24sp"
             android:textStyle="bold"
             android:typeface="serif" />
+
     </LinearLayout>
 
     <LinearLayout
